@@ -5,8 +5,9 @@
 
 int main(int argc, char **argv)
 {
-    if (true) // make false to run unit-tests
+    if (false) // make false to run unit-tests
     {
+        std::cout<<"Hello world!"<<std::endl;
         // debug section
     }
     else
